@@ -268,7 +268,7 @@
   "server_setting.page.generics": "General",
   "server_setting.generic_settings_box": "Basic",
   "server_setting.java_argument_box": "Java",
-  "server_setting.use_default_java_arguments_box": "Use default",
+  "server_setting.use_default_java_arguments_box": "Use default args",
   "server_setting.java_argument_edit_button": "Advanced...",
   "server_setting.server_name.label": "Name: ",
   "server_setting.java_memory_max.label": "Maximum RAM: ",
