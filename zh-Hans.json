@@ -28,6 +28,8 @@
   "modpack.source.curseforge.filetype": "CurseForge 游戏端模组包",
   "modpack.source.modrinth": "Modrinth",
   "modpack.source.modrinth.filetype": "Modrinth 模组包",
+  "jump_list.category.server": "服务器",
+  "jump_list.category.modpack_server": "模组包服务器",
   "theme.system": "随系统而定 ({0})",
   "theme.system.auto_switch": "随系统而定 ({0} - 自动切换)",
   "theme.light": "浅色",

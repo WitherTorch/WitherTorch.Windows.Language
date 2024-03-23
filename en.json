@@ -28,6 +28,8 @@
   "modpack.source.curseforge.filetype": "CurseForge Client-side Modpack",
   "modpack.source.modrinth": "Modrinth",
   "modpack.source.modrinth.filetype": "Modrinth Modpack",
+  "jump_list.category.server": "Servers",
+  "jump_list.category.modpack_server": "Modpack Servers",
   "theme.system": "System ({0})",
   "theme.system.auto_switch": "System ({0} - Adaptive)",
   "theme.light": "Light",
