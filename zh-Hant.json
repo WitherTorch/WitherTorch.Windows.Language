@@ -144,6 +144,7 @@
   "main_window.show_non_latest_quilt_loader": "是否在版本列表中可選擇舊版或不穩定版本的 Quilt Loader",
   "main_window.pregenerate_server_properties": "是否要預先生成 server.properties (內容可能不太完全)",
   "main_window.server_console_setting_box": "伺服器主控台 (此區設定只對新的視窗有用)",
+  "main_window.server_console_clear_message_list_when_restart": "在伺服器重啟時清空訊息列表",
   "main_window.server_console_max_history.label": "訊息歷史數量限制: ",
   "main_window.server_console_max_history.watermark": "0 = 無限制",
   "main_window.apply_setting_button": "套用設定",

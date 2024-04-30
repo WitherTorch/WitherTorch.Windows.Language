@@ -144,6 +144,7 @@
   "main_window.show_non_latest_quilt_loader": "Allow to choose Quilt Loader version when creating server",
   "main_window.pregenerate_server_properties": "Pre-generate server.properties",
   "main_window.server_console_setting_box": "Server Console Window Options (Only for new-opened)",
+  "main_window.server_console_clear_message_list_when_restart": "Clean output messages when server restarted",
   "main_window.server_console_max_history.label": "Message History Limit: ",
   "main_window.server_console_max_history.watermark": "0 = Unlimited",
   "main_window.apply_setting_button": "Apply",
