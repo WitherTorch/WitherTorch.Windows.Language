@@ -193,6 +193,7 @@
   "main_window.experiment.enable_cpu_scheduler": "啟用智慧 CPU 分配 (需重啟 WitherTorch 來套用)",
   "main_window.experiment.force_warp_rendering": "強制使用 WARP 繪製 (需重啟 WitherTorch 來套用)",
   "main_window.experiment.enable_cleartype": "啟用 ClearType 文字抗鋸齒 (需重啟 WitherTorch 來套用)",
+  "main_window.experiment.terminate_servers_when_crash": "在 WitherTorch 崩潰時強制終止運行中的伺服器 (需重啟 WitherTorch 來套用)",
   "main_window.server_import": "匯入伺服器",
   "main_window.server_import.modpack": "匯入模組包伺服器",
   "main_window.server_import.filter_name": "伺服器資訊檔案",
