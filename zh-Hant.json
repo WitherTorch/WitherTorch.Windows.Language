@@ -341,7 +341,7 @@
   "server_list.context_menu.bring_to_bottom": "移到最下面",
   "server_list.context_menu.bring_upper": "上移一格",
   "server_list.context_menu.bring_lower": "下移一格",
-  "server_list.context_menu.recreate_server": "重新建立伺服器",
+  "server_list.context_menu.change_server_software": "變更伺服器軟體...",
   "server_list.context_menu.stop_updating": "停止更新伺服器",
   "server_list.context_menu.mark_as_auto_start": "標記為開機自啟動",
   "server_list.context_menu.unmark_as_auto_start": "移除開機自啟動標記",
