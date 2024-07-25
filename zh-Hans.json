@@ -195,6 +195,7 @@
   "main_window.experiment.force_warp_rendering": "强制使用 WARP 绘製 (需重启 WitherTorch 来套用)",
   "main_window.experiment.enable_cleartype": "启用 ClearType 文字抗锯齿 (需重启 WitherTorch 来套用)",
   "main_window.experiment.terminate_servers_when_crash": "在 WitherTorch 崩溃时强制停止运行中的伺服器 (需重新启动 WitherTorch 来套用)",
+  "main_window.experiment.compress_strings_for_server_console": "压缩服务器主控台的讯息列表内容以节省內存 (需重啟 WitherTorch 來套用)",
   "main_window.server_import": "汇入服务器",
   "main_window.server_import.modpack": "汇入模组包服务器",
   "main_window.server_import.filter_name": "服务器信息文件",
