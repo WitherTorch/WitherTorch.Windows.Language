@@ -158,6 +158,7 @@
   "main_window.java_version_box.invalid": "Environment: {0} (Cannot load informations)",
   "main_window.java_version_box.valid": "Environment: {0} (Java {1}, {2} bit)\nPath: {3}",
   "main_window.java_select_button": "Browse",
+  "main_window.java_select_button.title": "Choose default Java Environment",
   "main_window.java_reset_button": "Reset",
   "main_window.java_setting_box.server": "Default Arguments (Normal Server)",
   "main_window.java_setting_box.modpack_server": "Default Arguments (Modpack Server)",
