@@ -165,7 +165,7 @@
   "main_window.java_memory_max.label": "記憶體上限: ",
   "main_window.java_memory_min.label": "記憶體下限: ",
   "main_window.java_argument_edit_button": "進階參數設置...",
-  "main_window.java_argument_apply_button": "套用記憶體設定",
+  "main_window.java_argument_apply_button": "套用參數設定",
   "main_window.ddns_status_box": "DDNS 狀態",
   "main_window.ddns_status_box.default": "狀態: 未使用\nIP 同步任務數量: 0",
   "main_window.ddns_status_box.status": "狀態: 將於 {0}後進行 IP 同步",
