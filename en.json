@@ -135,6 +135,7 @@
   "main_window.modpack_server_search_box.watermark": "Type keywords you want searching...",
   "main_window.create_modpack_server_button.tooltip": "Create a new modpack server",
   "main_window.import_modpack_server_button.tooltip": "Import an existed modpack server",
+  "main_window.scheduled_task_search_box.watermark": "Type keywords you want searching...",
   "main_window.create_scheduled_task_button.tooltip": "Create a new server task",
   "main_window.import_scheduled_task_button.tooltip": "Import an existed server task file",
   "main_window.ui_look_box": "Appearence",

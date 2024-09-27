@@ -135,6 +135,7 @@
   "main_window.modpack_server_search_box.watermark": "输入欲搜寻的模组包服务器名称",
   "main_window.create_modpack_server_button.tooltip": "创建新的模组包服务器",
   "main_window.import_modpack_server_button.tooltip": "加入现存的模组包服务器",
+  "main_window.scheduled_task_search_box.watermark": "输入欲搜寻的服务器排程名称",
   "main_window.create_scheduled_task_button.tooltip": "创建新的服务器排程",
   "main_window.import_scheduled_task_button.tooltip": "加入现存的服务器排程文件",
   "main_window.ui_look_box": "外观",
