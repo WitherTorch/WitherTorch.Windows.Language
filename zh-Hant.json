@@ -283,7 +283,7 @@
   "scheduled_task_creating_wizard.task_description.label": "排程描述: ",
   "scheduled_task_creating_wizard.task_description.watermark": "請輸入排程的描述",
   "scheduled_task_creating_wizard.task_description.description": "排程描述可以讓人簡單地了解該排程的內容，若不手動填寫則會採用系統自動生成的文字描述",
-  "scheduled_task_creating_wizard.task_trigger.label": "排程觸發條件: ",
+  "scheduled_task_creating_wizard.task_trigger.label": "觸發條件: ",
   "scheduled_task_creating_wizard.previous_page": "上一步",
   "scheduled_task_creating_wizard.next_page": "下一步",
   "scheduled_task_creating_wizard.next_page.done": "完成",

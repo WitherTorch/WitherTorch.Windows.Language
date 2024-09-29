@@ -283,7 +283,7 @@
   "scheduled_task_creating_wizard.task_description.label": "排程描述: ",
   "scheduled_task_creating_wizard.task_description.watermark": "请输入排程的描述",
   "scheduled_task_creating_wizard.task_description.description": "排程描述可以让人简单地了解该排程的内容，若不手动填写则会采用系统自动生成的文字描述",
-  "scheduled_task_creating_wizard.task_trigger.label": "排程触发条件: ",
+  "scheduled_task_creating_wizard.task_trigger.label": "触发条件: ",
   "scheduled_task_creating_wizard.previous_page": "上一步",
   "scheduled_task_creating_wizard.next_page": "下一步",
   "scheduled_task_creating_wizard.next_page.done": "完成",
