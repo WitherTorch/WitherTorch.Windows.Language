@@ -282,7 +282,7 @@
   "scheduled_task_creating_wizard.task_name.description": "行程名稱是該行程檔案的檔名，不能使用 {0} 等特殊字元",
   "scheduled_task_creating_wizard.task_description.label": "行程描述: ",
   "scheduled_task_creating_wizard.task_description.watermark": "請輸入行程的描述",
-  "scheduled_task_creating_wizard.task_description.description": "行程描述可以讓人簡單地了解此行程的具體內容，若不手動填寫則會採用系統自動生成的文字描述",
+  "scheduled_task_creating_wizard.task_description.description": "行程描述可以讓人簡單地了解這個行程的具體內容，若不手動填寫則會採用系統自動生成的文字描述",
   "scheduled_task_creating_wizard.task_trigger.label": "觸發條件: ",
   "scheduled_task_creating_wizard.previous_page": "上一步",
   "scheduled_task_creating_wizard.next_page": "下一步",
