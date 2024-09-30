@@ -284,6 +284,8 @@
   "scheduled_task_creating_wizard.task_description.watermark": "请输入行程的描述",
   "scheduled_task_creating_wizard.task_description.description": "行程描述可以让人简单地了解这个行程的具体内容，若不手动填写则会采用系统自动生成的文字描述",
   "scheduled_task_creating_wizard.task_trigger.label": "触发条件: ",
+  "scheduled_task_creating_wizard.task_executor.label": "行程目标: ",
+  "scheduled_task_creating_wizard.task_commands.label": " 行程命令: ",
   "scheduled_task_creating_wizard.previous_page": "上一步",
   "scheduled_task_creating_wizard.next_page": "下一步",
   "scheduled_task_creating_wizard.next_page.done": "完成",
