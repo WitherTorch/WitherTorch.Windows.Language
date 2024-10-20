@@ -119,6 +119,7 @@
   "message.scheduled_task_trigger_time_is_empty": "觸發時間不能為零或空白！",
   "message.scheduled_task_executor_is_not_choosed": "尚未選擇預定行程的行程目標！",
   "message.scheduled_task_command_is_empty": "行程指令不得為空！",
+  "message.scheduled_task_trigger_time_is_not_filled.any": "觸發時間至少需要填寫一項欄位！",
   "message.failed_to_create_scheduled_task": "預定行程規劃失敗！",
   "message.should_close_console.force": "伺服器尚未正常關閉，是否要強制關閉並關閉主控台？",
   "message.should_close_console": "伺服器尚未關妥，確定要關閉主控台嗎？",

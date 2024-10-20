@@ -119,6 +119,7 @@
   "message.scheduled_task_trigger_time_is_empty": "The trigger time cannot be empty or zero!",
   "message.scheduled_task_executor_is_not_choosed": "The task target is not chosen yet!",
   "message.scheduled_task_command_is_empty": "Task commands cannot be empty!",
+  "message.scheduled_task_trigger_time_is_not_filled.any": "The trigger time requires filling in at least one field!",
   "message.failed_to_create_scheduled_task": "Failed to schedule the task!",
   "message.should_close_console.force": "The server hasn't close completely, do you want to shutdown the server forcibly and close the console window?",
   "message.should_close_console": "The server hasn't close completely, do you want to close the console window?",

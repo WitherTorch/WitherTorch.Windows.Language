@@ -119,6 +119,7 @@
   "message.scheduled_task_trigger_time_is_empty": "触发时间不能为零或空白！",
   "message.scheduled_task_executor_is_not_choosed": "尚未选择预定行程的行程目标！",
   "message.scheduled_task_command_is_empty": "行程指令不得為空！",
+  "message.scheduled_task_trigger_time_is_not_filled.any": "触发时间至少需要填写一项栏位！",
   "message.failed_to_create_scheduled_task": "无法计划预定行程！",
   "message.should_close_console.force": "服务器尚未正常关闭，是否要强制关闭并关闭主控台？",
   "message.should_close_console": "服务器尚未关妥，确定要关闭主控台吗？",
