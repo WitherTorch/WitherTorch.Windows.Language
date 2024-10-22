@@ -242,7 +242,6 @@
   "main_window.cloudflare_login.progress": "Login...",
   "main_window.cloudflare_logout": "Logout",
   "main_window.cloudflare_auto_login": "Auto login",
-  "main_window.experiment.enable_cpu_scheduler": "Enable Custom CPU Scheduler (Requires  app restarting)",
   "main_window.experiment.force_warp_rendering": "Force using WARP Rendering (Requires app restarting)",
   "main_window.experiment.enable_cleartype": "Enable ClearType text anti-aliasing (Requires app restarting)",
   "main_window.experiment.terminate_servers_when_crash": "Terminate all active servers when app crashed (Requires app restarting)",
