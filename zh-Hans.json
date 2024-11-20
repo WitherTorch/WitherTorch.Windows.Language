@@ -243,7 +243,7 @@
   "main_window.cloudflare_logout": "登出",
   "main_window.cloudflare_auto_login": "自动登入",
   "main_window.display": "显示设置",
-  "main_window.display.graphics_acceleration_card": "图形硬件加速卡: ",
+  "main_window.display.graphics_acceleration_card": "图形加速卡: ",
   "main_window.display.graphics_acceleration_card.none": "(无)",
   "main_window.display.graphics_acceleration_card.default": "(系统默认)",
   "main_window.display.graphics_acceleration_card.default.system": "(系统默认: 让系统决定)",
