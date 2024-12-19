@@ -37,6 +37,8 @@
   "scheduled_task.type.system_time": "When the system time reaches the condition",
   "scheduled_task.type.system_time.format": "When the system time reaches {0}/{1}/{2} ({3}), {4}:{5}:{6}",
   "scheduled_task.type.system_time.format.no_week": "When the system time reaches {0}/{1}/{2}, {4}:{5}:{6}",
+  "scheduled_task.type.message_filter": "When the server message is matched the filtering expressions",
+  "scheduled_task.type.message_filter.format": "When the server message is matched all of {0} filtering expressions",
   "scheduled_task.executor.stop_server": "Stop server",
   "scheduled_task.executor.restart_server": "Restart server",
   "scheduled_task.executor.console_command": "Execute commands in console",

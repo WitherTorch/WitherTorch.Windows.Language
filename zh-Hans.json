@@ -37,6 +37,8 @@
   "scheduled_task.type.system_time": "当系统时间到达条件时",
   "scheduled_task.type.system_time.format": "当系统时间到达 {0} 年 {1} 月 {2} 日 {3}, {4} 时 {5} 分 {6} 秒时",
   "scheduled_task.type.system_time.format.no_week": "当系统时间到达 {0} 年 {1} 月 {2} 日, {3} 时 {4} 分 {5} 秒时",
+  "scheduled_task.type.message_filter": "当服务器的后台信息符合条件时",
+  "scheduled_task.type.message_filter.format": "当服务器的后台信息符合所指定的 {0} 个条件时",
   "scheduled_task.executor.stop_server": "关闭服务器",
   "scheduled_task.executor.restart_server": "重启服务器",
   "scheduled_task.executor.console_command": "运行主控台命令",
