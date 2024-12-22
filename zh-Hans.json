@@ -326,7 +326,7 @@
   "scheduled_task_creating_wizard": "计划预定行程",
   "scheduled_task_creating_wizard.page.basic_information": "请填写行程的基础信息",
   "scheduled_task_creating_wizard.page.basic_information.description": "这些信息可协助你辨识该预定行程，以及决定这个行程该在何时被触发",
-  "scheduled_task_creating_wizard.page.execute_information": "请填写该行程的运行信息",
+  "scheduled_task_creating_wizard.page.execute_information": "请填写行程的运行信息",
   "scheduled_task_creating_wizard.page.execute_information.description": "选择该预定行程的行程目标，并根据需要填写额外栏位",
   "scheduled_task_creating_wizard.task_name.label": "行程名称: ",
   "scheduled_task_creating_wizard.task_name.watermark": "请输入行程的名称",
