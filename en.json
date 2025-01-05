@@ -48,7 +48,7 @@
   "theme.system.auto_switch": "System ({0} - Adaptive)",
   "theme.light": "Light",
   "theme.dark": "Dark",
-  "material.system": "System ({0})",
+  "material.default": "Default ({0})",
   "material.mica_alt": "Mica Alt",
   "material.mica": "Mica",
   "material.acrylic": "Acrylic Blur",
