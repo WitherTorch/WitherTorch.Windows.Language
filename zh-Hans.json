@@ -322,7 +322,7 @@
   "modpack_server_creating_wizard.modpack_category.none": "无",
   "modpack_server_creating_wizard.modpack_category.loading": "载入中...",
   "modpack_server_creating_wizard.modpack_category.default": "不拘",
-  "modpack_server_creating_wizard.modpack_category.custom": "自定义",
+  "modpack_server_creating_wizard.modpack_category.custom": "自定义 (点击下一步以继续)",
   "modpack_server_creating_wizard.install_status": "目前工作: {0}",
   "scheduled_task_creating_wizard": "计划预定行程",
   "scheduled_task_creating_wizard.page.basic_information": "请填写行程的基础信息",

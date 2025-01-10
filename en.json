@@ -322,7 +322,7 @@
   "modpack_server_creating_wizard.modpack_category.none": "N/A",
   "modpack_server_creating_wizard.modpack_category.loading": "Loading...",
   "modpack_server_creating_wizard.modpack_category.default": "All",
-  "modpack_server_creating_wizard.modpack_category.custom": "Custom",
+  "modpack_server_creating_wizard.modpack_category.custom": "Custom (Press 'Next' button to continue)",
   "modpack_server_creating_wizard.install_status": "Status: {0}",
   "scheduled_task_creating_wizard": "Planning Scheduled Task...",
   "scheduled_task_creating_wizard.page.basic_information": "Basic information",
