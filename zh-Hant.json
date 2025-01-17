@@ -143,6 +143,7 @@
   "main_window.page.scheduled_tasks": "預定行程",
   "main_window.page.settings": "設定",
   "main_window.settings.page.generics": "一般",
+  "main_window.settings.page.window": "視窗",
   "main_window.settings.page.java": "Java 執行環境",
   "main_window.settings.page.ddns": "DDNS 同步",
   "main_window.settings.page.advanced": "進階",

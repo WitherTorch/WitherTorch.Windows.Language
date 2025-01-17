@@ -143,6 +143,7 @@
   "main_window.page.scheduled_tasks": "Scheduled Tasks",
   "main_window.page.settings": "Settings",
   "main_window.settings.page.generics": "General",
+  "main_window.settings.page.window": "Window",
   "main_window.settings.page.java": "Java Environment",
   "main_window.settings.page.ddns": "DDNS",
   "main_window.settings.page.advanced": "Advanced",
