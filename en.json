@@ -81,6 +81,7 @@
   "memory_unit.pib": "PiB",
   "auto_eula.header": "This file is signed from WitherTorch in user agreed\nMinecraft EULA: {0}",
   "message.java_not_found": "Cannot to get default Java Environment data, the server won't start!",
+  "message.shutdown_delay_message": "Saving the setting data for user...",
   "message.import_server_invalid": "The server is invalid!",
   "message.import_server_exists": "The server is already imported!",
   "message.import_server_error": "An error was encountered while importing server!",

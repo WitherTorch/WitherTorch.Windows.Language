@@ -81,6 +81,7 @@
   "memory_unit.pib": "PiB",
   "auto_eula.header": "此檔案由 WitherTorch 在使用者同意下進行簽署\nMinecraft EULA 網址: {0}",
   "message.java_not_found": "無法取得預設 Java 環境的相關資料，伺服器可能會無法啟動！",
+  "message.shutdown_delay_message": "正在儲存使用者的設定資料...",
   "message.import_server_invalid": "無效的伺服器！",
   "message.import_server_exists": "該伺服器已經匯入過了！",
   "message.import_server_error": "在讀取伺服器資訊時遇到錯誤！",
