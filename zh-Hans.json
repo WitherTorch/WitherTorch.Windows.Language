@@ -102,6 +102,7 @@
   "message.no_ip_login_failed": "登入失败！\n请检查帐号或密码是否有误",
   "message.cloudflare_login_failed": "登入失败！\n请检查帐号或密钥是否有误",
   "message.unable_to_create_server": "无法使用此服务器软件开服！",
+  "message.cannot_open_server_directory": "无法打开服务器文件夹！",
   "message.server_directory_cannot_be_empty": "服务器文件夹不得为空！",
   "message.server_directory_cannot_be_empty.modpack": "服务器文件夹不得为空！",
   "message.server_directory_is_invalid": "无效的服务器文件夹！",
