@@ -221,6 +221,7 @@
   "main_window.java_version_box.valid": "當前環境: {0} (Java {1}, {2} 位元架構)\n路徑: {3}",
   "main_window.java_select_button": "選擇",
   "main_window.java_select_button.title": "選擇預設使用的 Java 環境",
+  "main_window.java_select_button.filter_name": "Java",
   "main_window.java_reset_button": "重置",
   "main_window.java_setting_box.server": "預設參數配置 (一般伺服器)",
   "main_window.java_setting_box.modpack_server": "預設參數配置 (模組包伺服器)",
