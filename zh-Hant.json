@@ -182,6 +182,7 @@
   "main_window.network_box.context_menu.copy_gateway": "複製網卡的閘道 IP 位址",
   "main_window.network_box.context_menu.choose_network_interface": "選擇要檢視的網卡...",
   "main_window.choose_network_interface": "選擇要檢視的網卡",
+  "main_window.choose_network_interface.close": "確定",
   "main_window.server_search_box.watermark": "輸入欲搜尋的伺服器名稱",
   "main_window.create_server_button.tooltip": "建立新的伺服器",
   "main_window.import_server_button.tooltip": "匯入現存的伺服器",
