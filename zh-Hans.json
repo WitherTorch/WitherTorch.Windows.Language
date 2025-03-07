@@ -181,8 +181,6 @@
   "main_window.network_box.context_menu.copy_ipv6": "复制网卡 IP 地址 (IPv6)",
   "main_window.network_box.context_menu.copy_gateway": "复制网卡的网关 IP 地址",
   "main_window.network_box.context_menu.choose_network_interface": "选择要检视的网卡...",
-  "main_window.choose_network_interface": "选择要检视的网卡",
-  "main_window.choose_network_interface.close": "确定",
   "main_window.server_search_box.watermark": "输入欲搜寻的服务器名称",
   "main_window.create_server_button.tooltip": "创建新的服务器",
   "main_window.import_server_button.tooltip": "加入现存的服务器",
