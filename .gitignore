@@ -1,0 +1,17 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+*.exe
+*.dll
+*.pdb
+*.xml
+/packages
+obj
+bin
+/.vs
+/.git
+*.user
+/WitherTorch.Windows.Graphics/bin - 複製
+/infer-out
+**/Properties/launchSettings.json
