@@ -5,9 +5,13 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<LangVersion>latest</LangVersion>
+		<GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+		<Deterministic>True</Deterministic>
 	</PropertyGroup>
 
 	<ItemGroup>
+		<None Remove=".git" />
+		<None Remove=".gitignore" />
 		<None Remove="en.json" />
 		<None Remove="zh-Hans.json" />
 		<None Remove="zh-Hant.json" />
@@ -17,6 +21,10 @@
 		<EmbeddedResource Include="Data\en.json" />
 		<EmbeddedResource Include="Data\zh-Hans.json" />
 		<EmbeddedResource Include="Data\zh-Hant.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Include="$(SolutionDir)\GlobalAssemblyInfo.cs" Link="GlobalAssemblyInfo.cs" />
 	</ItemGroup>
 
 </Project>
