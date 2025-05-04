@@ -390,7 +390,7 @@
   "server_console.page.status": "狀態",
   "server_console.page.operate": "操作",
   "server_console.page.message_list": "訊息列表",
-  "server_console.process_status_box": "處理程序資訊",
+  "server_console.process_status_box": "程序資訊",
   "server_console.process_status.default": "ID: 取得中...\nCPU 占用: 計算中...\nRAM 占用: 計算中...",
   "server_console.process_status.none": "ID: 無\nCPU 占用: 無\nRAM 占用: 無",
   "server_console.process_status": "ID: {0}\nCPU 占用: {1} %\nRAM 占用: {2}",
