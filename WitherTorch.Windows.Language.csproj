@@ -9,6 +9,7 @@
 		<Deterministic>True</Deterministic>
 		<SignAssembly>True</SignAssembly>
 		<AssemblyOriginatorKeyFile>keypair.snk</AssemblyOriginatorKeyFile>
+		<Platforms>AnyCPU;x64</Platforms>
 	</PropertyGroup>
 
 	<ItemGroup>
