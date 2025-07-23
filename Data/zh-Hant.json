@@ -488,6 +488,7 @@
   "textbox.context_menu.paste": "貼上",
   "textbox.context_menu.select_all": "全選",
   "textbox.context_menu.delete": "刪除",
+  "logview.context_menu.copy_selection": "複製",
   "modpack_browser.loading": "載入中...",
   "modpack_file_browser.loading": "載入中...",
   "modpack_file_browser.file_name.header": "版本名稱",

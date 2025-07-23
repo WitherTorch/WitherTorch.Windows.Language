@@ -488,6 +488,7 @@
   "textbox.context_menu.paste": "Paste",
   "textbox.context_menu.select_all": "Select All",
   "textbox.context_menu.delete": "Delete",
+  "logview.context_menu.copy_selection": "Copy",
   "modpack_browser.loading": "Loading...",
   "modpack_file_browser.loading": "Loading...",
   "modpack_file_browser.file_name.header": "Name",
