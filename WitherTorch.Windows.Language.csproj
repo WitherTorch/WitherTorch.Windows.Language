@@ -11,13 +11,22 @@
 		<AssemblyOriginatorKeyFile>keypair.snk</AssemblyOriginatorKeyFile>
 		<Platforms>AnyCPU;x64</Platforms>
 	</PropertyGroup>
+	
+	<PropertyGroup Condition="'$(Configuration)'=='Debug'">
+		<Optimize>False</Optimize>
+		<DebugType>pdbonly</DebugType>
+		<AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
+	</PropertyGroup>
 
+	<PropertyGroup Condition="'$(Configuration)'=='Release'">
+		<Optimize>True</Optimize>
+		<DebugType>none</DebugType>
+		<AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
+	</PropertyGroup>
+		
 	<ItemGroup>
 		<None Remove=".git" />
 		<None Remove=".gitignore" />
-		<None Remove="en.json" />
-		<None Remove="zh-Hans.json" />
-		<None Remove="zh-Hant.json" />
 	</ItemGroup>
 
 	<ItemGroup>
