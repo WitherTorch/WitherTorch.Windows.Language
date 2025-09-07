@@ -137,6 +137,7 @@
   "message.should_close_console": "伺服器尚未關妥，確定要關閉主控台嗎？",
   "message.failed_to_reload_scheduled_task": "預定任務檔案重載失敗！",
   "message.successed_to_reload_scheduled_task": "預定任務檔案重載成功！",
+  "splash_screen.initializing": "正在初始化...",
   "splash_screen.loading_settings": "正在加載設定...",
   "splash_screen.loading_server_softwares": "正在加載伺服器軟體... ({0}/{1})",
   "splash_screen.loading_servers": "正在加載伺服器... ({0}/{1})",

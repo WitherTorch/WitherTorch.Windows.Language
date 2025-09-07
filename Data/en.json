@@ -137,6 +137,7 @@
   "message.should_close_console": "The server hasn't close completely, do you want to close the console window?",
   "message.failed_to_reload_scheduled_task": "Failed to reload scheduled task file!",
   "message.successed_to_reload_scheduled_task": "Scheduled task file reload successful!",
+  "splash_screen.initializing": "Initializing...",
   "splash_screen.loading_settings": "Loading settings...",
   "splash_screen.loading_server_softwares": "Loading server softwares... ({0}/{1})",
   "splash_screen.loading_servers": "Loading servers... ({0}/{1})",

@@ -137,6 +137,7 @@
   "message.should_close_console": "服务器尚未关妥，确定要关闭主控台吗？",
   "message.failed_to_reload_scheduled_task": "预定任务文件重载失败！",
   "message.successed_to_reload_scheduled_task": "预定任务文件重载成功！",
+  "splash_screen.initializing": "正在初始化...",
   "splash_screen.loading_settings": "正在加载设定...",
   "splash_screen.loading_server_softwares": "正在加载服务器软件... ({0}/{1})",
   "splash_screen.loading_servers": "正在加载服务器... ({0}/{1})",
