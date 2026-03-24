@@ -472,6 +472,7 @@
   "install_status.read_modpack_manifest": "Reading modpack manifest...",
   "install_status.read_mod_manifest": "Reading mod manifest...",
   "server_list.server_version.format": "{0} {1}",
+  "server_list.server_version.update_status": "Current update status: {0}",
   "server_list.server_version.prepare_update": "{0} (Preparing update...)",
   "server_list.server_version.update_failed": "{0} (Update failed)",
   "server_list.server_version.update_progress": "{0} (Update progress: {1} %)",
