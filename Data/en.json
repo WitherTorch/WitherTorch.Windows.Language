@@ -150,7 +150,7 @@
   "main_window.page.servers": "Servers",
   "main_window.page.modpack_servers": "Modpack Servers",
   "main_window.page.scheduled_tasks": "Scheduled Tasks",
-  "main_window.page.environments": "Environments",
+  "main_window.page.environments": "Environments (W.I.P.)",
   "main_window.page.settings": "Settings",
   "main_window.settings.page.generics": "General",
   "main_window.settings.page.window": "Window",
