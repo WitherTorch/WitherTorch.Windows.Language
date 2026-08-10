@@ -13,8 +13,6 @@
 	</PropertyGroup>
 	
 	<PropertyGroup Condition="'$(Configuration)'=='Debug'">
-		<Optimize>False</Optimize>
-		<DebugType>pdbonly</DebugType>
 		<AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
 	</PropertyGroup>
 
