@@ -498,6 +498,7 @@
   "server_list.context_menu.unmark_as_auto_start": "Remove \"Auto-startup\" mark",
   "server_list.remove_server.tooltip": "Remove Server",
   "server_list.launch_server.tooltip": "Launch Server",
+  "server_list.launch_server.exists.tooltip": "Go To Server Console",
   "server_list.setting_server.tooltip": "Server Settings",
   "server_list.open_server_folder.tooltip": "Open Folder",
   "server_list.update_server.tooltip": "Update Server",

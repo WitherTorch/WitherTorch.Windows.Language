@@ -498,6 +498,7 @@
   "server_list.context_menu.unmark_as_auto_start": "移除开机自启动标记",
   "server_list.remove_server.tooltip": "移除服务器",
   "server_list.launch_server.tooltip": "启动服务器",
+  "server_list.launch_server.exists.tooltip": "跳转至服务器主控台",
   "server_list.setting_server.tooltip": "设置服务器",
   "server_list.open_server_folder.tooltip": "开启服务器文件夹",
   "server_list.update_server.tooltip": "更新服务器",
