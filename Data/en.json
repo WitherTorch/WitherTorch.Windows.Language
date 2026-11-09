@@ -448,7 +448,7 @@
   "server_setting.server_name.label": "Name: ",
   "server_setting.java_memory_max.label": "Maximum RAM: ",
   "server_setting.java_memory_min.label": "Minimum RAM: ",
-  "java_argument_window": "Java Arguments Editor",
+  "java_argument_window": "Edit Java Arguments",
   "java_argument_window.browse_java_path.button": "Browse...",
   "java_argument_window.browse_java_path": "Select the path to Java",
   "java_argument_window.browse_java_path.filter_name": "Java",
